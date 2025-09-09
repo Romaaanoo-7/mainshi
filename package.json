@@ -1,0 +1,16 @@
+{
+  "name": "mainshi",
+  "version": "1.0.0",
+  "description": "repo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": ["testing"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
